@@ -16,6 +16,9 @@ Languages/Technologies:
   
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148861476-139a3ec9-0a9d-42b5-bf87-dde816f88263.png" width="50" height="50"/ >
+<a/>
+
+</br>
   
 <a href="https://getbootstrap.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148861553-32bfbc1e-ed41-407d-92eb-4e7a648f340b.jpeg" width="50" height="50"/ >
@@ -33,9 +36,12 @@ Languages/Technologies:
 <img src="https://user-images.githubusercontent.com/70719037/148862183-16c92f43-73ac-465d-9e51-ea5abe26922c.png" width="50" height="50"/ >
 <a/>
 
-<a href="https://developer.apple.com/swift/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148862338-69046b7e-9fb5-4bc0-9c7b-e607c0bda5a2.png" width="50" height="50"/ >
+</br>
+  
+<a href="https://neo4j.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148892341-dff82070-0340-4d3c-96cb-d224ae8ea676.png" width="50" height="50"/ >
 <a/>
+
 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148862436-04782ba9-df53-47fd-a93e-af16d6213a1e.png" width="50" height="50"/ >
@@ -48,10 +54,48 @@ Languages/Technologies:
 <a href="https://www.postgresql.org/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148863107-49650959-3632-41e5-9fb0-f37e4216c861.png" width="50" height="50"/ >
 <a/>
+  
+</br>
 
+<a href="https://developer.apple.com/swift/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148862338-69046b7e-9fb5-4bc0-9c7b-e607c0bda5a2.png" width="50" height="50"/ >
+<a/>
 
+<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148892418-4d695f7a-9a40-44ff-bd54-db417374e5e5.png" width="50" height="50"/ >
+<a/>
 
+  
+<a href="https://www.python.org/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148892457-37da1fd5-8a74-45a7-a774-1e3c1f9493de.png" width="50" height="50"/ >
+<a/>
 
+<a href="https://www.php.net/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148892651-7c19076a-4b9e-43f8-9411-ef270d5271e0.png" width="50" height="50"/ >
+<a/>
+
+</br>
+  
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148892758-4d2fe885-c1b1-4a48-8faf-3700860f1156.png" width="50" height="50"/ >
+<a/> 
+
+<a href="https://firebase.google.com/docs/auth" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148892877-64965773-28dc-446f-9b47-d409453b7257.png" width="50" height="50"/ >
+<a/> 
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148893038-f2a86358-3c0b-4805-bd51-a3c1861a2004.png" width="50" height="50"/ >
+<a/> 
+
+<a href="https://unity.com/" target="_blank">
+<img src="https://user-images.githubusercontent.com/70719037/148893139-ddfddcce-f8b8-4d96-955c-316f63e93c85.jpeg" width="50" height="50"/ >
+<a/>  
+
+  
+  
+  
+  
 <!--
 **batukir/batukir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
