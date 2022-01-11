@@ -1,12 +1,12 @@
 
 <h1 align='center'> Hi, I'm Batuhan 👋 </h1>
-<h3 > 
-  <ul> 
-    <li> Focused on software development and fascinated by new technology research. </li>
-    <li> Excellent communication, collaboration, and problem solving skills. </li>
-  </ul>
+<h3 align='center'> 
+  Focused on software development and fascinated by new technology research. 
+  </br>
+  Excellent communication, collaboration, and problem solving skills.
 </h3>
 
+<div align='center' >
 <p> Languages/Technologies: </p>
 
 <a href="https://www.javascript.com/" target="_blank">
@@ -25,12 +25,13 @@
 <img src="https://user-images.githubusercontent.com/70719037/148861476-139a3ec9-0a9d-42b5-bf87-dde816f88263.png" width="50" height="50"/ >
 </a>
 
-</br>
   
 <a href="https://getbootstrap.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148861553-32bfbc1e-ed41-407d-92eb-4e7a648f340b.jpeg" width="50" height="50"/ >
 </a>
-  
+
+</br>
+
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148862048-58522e53-2187-483a-a7b5-1d83db704a91.png" width="50" height="50"/ >
 </a>
@@ -43,8 +44,6 @@
 <img src="https://user-images.githubusercontent.com/70719037/148893038-f2a86358-3c0b-4805-bd51-a3c1861a2004.png" width="50" height="50"/ >
 </a>
 
-</br>
-  
 <a href="https://neo4j.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148892341-dff82070-0340-4d3c-96cb-d224ae8ea676.png" width="50" height="50"/ >
 </a>
@@ -52,6 +51,8 @@
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148862436-04782ba9-df53-47fd-a93e-af16d6213a1e.png" width="50" height="50"/ >
 </a>
+
+</br>
 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148862730-bd89b571-d326-4ffe-9b05-5d18785f1edf.png" width="50" height="50"/ >
@@ -61,7 +62,6 @@
 <img src="https://user-images.githubusercontent.com/70719037/148863107-49650959-3632-41e5-9fb0-f37e4216c861.png" width="50" height="50"/ >
 </a>
   
-</br>
 
 <a href="https://developer.apple.com/swift/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148862338-69046b7e-9fb5-4bc0-9c7b-e607c0bda5a2.png" width="50" height="50"/ >
@@ -76,11 +76,12 @@
 <img src="https://user-images.githubusercontent.com/70719037/148892457-37da1fd5-8a74-45a7-a774-1e3c1f9493de.png" width="50" height="50"/ >
 </a>
 
+</br>
+
 <a href="https://www.php.net/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148892651-7c19076a-4b9e-43f8-9411-ef270d5271e0.png" width="50" height="50"/ >
 </a>
 
-</br>
   
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148892758-4d2fe885-c1b1-4a48-8faf-3700860f1156.png" width="50" height="50"/ >
@@ -98,7 +99,7 @@
 <img src="https://user-images.githubusercontent.com/70719037/148893139-ddfddcce-f8b8-4d96-955c-316f63e93c85.jpeg" width="50" height="50"/ >
 </a>
 
- 
+</div>
   
   
 <!--
