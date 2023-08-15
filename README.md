@@ -1,9 +1,7 @@
 
 <h1 align='center'> Hi, I'm Batuhan 👋 </h1>
 <h3 align='center'> 
-  Focused on software development and fascinated by new technology research. 
-  </br>
-  Excellent communication, collaboration, and problem solving skills.
+With a strong foundation in software development and a keen interest in cutting-edge technological research, I bring a dynamic skill set to the table. My exceptional communication, collaboration, and problem-solving abilities further amplify my capabilities. Enthusiastic about embracing novel challenges, I am driven to make substantial contributions that drive positive transformations. As a seasoned developer, my expertise lies in crafting dynamic and intuitive applications. My specialization in React.js and Node.js is a product of dedicated refinement over time. 
 </h3>
 
 <div align='center' >
