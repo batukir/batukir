@@ -97,7 +97,7 @@ With a strong foundation in software development and a keen interest in cutting-
 </p>
   
 <h2> 🔥 &nbsp; My Stats</h2>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=batukir)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=batukir&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **batukir/batukir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
