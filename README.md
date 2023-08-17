@@ -4,7 +4,8 @@
 With a strong foundation in software development and a keen interest in cutting-edge technological research, I bring a dynamic skill set to the table. My exceptional communication, collaboration, and problem-solving abilities further amplify my capabilities. Enthusiastic about embracing novel challenges, I am driven to make substantial contributions that drive positive transformations. As a seasoned developer, my expertise lies in crafting dynamic and intuitive applications. My specialization in React.js and Node.js is a product of dedicated refinement over time. 
 </h3>
 
-<div align='center' >
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
 <p> Languages/Technologies: </p>
 
 <a href="https://www.javascript.com/" target="_blank">
@@ -97,7 +98,7 @@ With a strong foundation in software development and a keen interest in cutting-
 <img src="https://user-images.githubusercontent.com/70719037/148893139-ddfddcce-f8b8-4d96-955c-316f63e93c85.jpeg" width="50" height="50"/ >
 </a>
 
-</div>
+</p>
   
   
 <!--
