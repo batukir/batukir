@@ -29,7 +29,6 @@ With a strong foundation in software development and a keen interest in cutting-
 <img src="https://user-images.githubusercontent.com/70719037/148861553-32bfbc1e-ed41-407d-92eb-4e7a648f340b.jpeg" width="50" height="50"/ >
 </a>
 
-</br>
 
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148862048-58522e53-2187-483a-a7b5-1d83db704a91.png" width="50" height="50"/ >
@@ -51,7 +50,6 @@ With a strong foundation in software development and a keen interest in cutting-
 <img src="https://user-images.githubusercontent.com/70719037/148862436-04782ba9-df53-47fd-a93e-af16d6213a1e.png" width="50" height="50"/ >
 </a>
 
-</br>
 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148862730-bd89b571-d326-4ffe-9b05-5d18785f1edf.png" width="50" height="50"/ >
@@ -74,8 +72,6 @@ With a strong foundation in software development and a keen interest in cutting-
 <a href="https://www.python.org/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148892457-37da1fd5-8a74-45a7-a774-1e3c1f9493de.png" width="50" height="50"/ >
 </a>
-
-</br>
 
 <a href="https://www.php.net/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148892651-7c19076a-4b9e-43f8-9411-ef270d5271e0.png" width="50" height="50"/ >
