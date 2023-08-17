@@ -99,7 +99,7 @@ With a strong foundation in software development and a keen interest in cutting-
 <h2> 🔥 &nbsp; My Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=batukir&theme=transparent"/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true&theme=transparent"><img src="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true&theme=transparent"/>
+<a href="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true&theme=darcula"/>
 
 <!--
 **batukir/batukir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
