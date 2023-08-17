@@ -97,7 +97,7 @@ With a strong foundation in software development and a keen interest in cutting-
 </p>
   
 <h2> 🔥 &nbsp; My Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=batukir&theme=dark"/></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=batukir&theme=transparent"/></a>
 
 <!--
 **batukir/batukir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
