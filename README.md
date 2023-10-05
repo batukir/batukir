@@ -95,10 +95,6 @@ With a strong foundation in software development and a keen interest in cutting-
 </a>
 
 </p>
-  
-<h2> 🔥 &nbsp; My Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=batukir&theme=gotham"/>
-<br/>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true&theme=gotham"/> -->
 
 <!--
