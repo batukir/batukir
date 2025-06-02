@@ -1,10 +1,10 @@
 
 <h1 align='center'> Hi, I'm Batuhan 👋 </h1>
-<h3> 
-<a href="https://batu-portfolio-nu.vercel.app/" target="_blank">
+<br/>
+<a align='center' href="https://batu-portfolio-nu.vercel.app/" target="_blank">
   Check out my portfolio!
 </a>
-  <br/>
+<h3> 
 Passionate about software development and fascinated by cutting-edge technology research, I bring forth excellent communication, collaboration, and problem-solving skills. Thriving on the excitement of embracing new challenges, I am dedicated to contributing to meaningful change. With a focus on creating dynamic and user-friendly applications, I specialize in React.js/Node.js and have honed my skills in mobile development, working with React Native for cross-platform solutions and SwiftUI for iOS applications. My commitment to continuous improvement positions me as an adept developer ready to drive innovation and deliver impactful solutions.
 </h3>
 
