@@ -1,5 +1,5 @@
 
-<h1 align='center'> Hi, I'm Batuhan 👋 </h1>
+<h1 align='center'> Hey, I'm Batu 👋 </h1>
 <br/>
 <a align='center' href="https://batu-portfolio-nu.vercel.app/" target="_blank">
   Check out my portfolio!
