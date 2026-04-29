@@ -43,7 +43,7 @@ Passionate about software development and fascinated by cutting-edge technology 
 
 <p>
   <strong>Cloud & DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,firebase" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,firebase" />
 </p>
 
 <p>
