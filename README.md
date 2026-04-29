@@ -12,7 +12,6 @@ Passionate about software development and fascinated by cutting-edge technology 
 <p align="left">
 <p> Languages/Technologies: </p>
 
-<div style={{display: "flex"}}>
 <a href="https://www.javascript.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148861646-28a8a2fc-9194-47a9-a5a3-b4cae94f469c.png" width="50" height="50"/ >
 </a>
@@ -98,7 +97,6 @@ Passionate about software development and fascinated by cutting-edge technology 
 <a href="https://unity.com/" target="_blank">
 <img src="https://user-images.githubusercontent.com/70719037/148893139-ddfddcce-f8b8-4d96-955c-316f63e93c85.jpeg" width="50" height="50"/ >
 </a>
-</div>
 </p>
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true&theme=gotham"/> -->
 
