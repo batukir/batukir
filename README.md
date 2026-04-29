@@ -1,116 +1,72 @@
 
-<h1 align='center'> Hey, I'm Batu 👋 </h1>
-<br/>
-<a align='center' href="https://batu-portfolio-nu.vercel.app/" target="_blank">
-  Check out my portfolio!
-</a>
-<h3> 
+<h1 >Hey, I'm Batu 👋</h1>
+
+<p >
+  <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">
+    🌐 View Portfolio
+  </a>
+</p>
+
+<p >
+  Software Engineer • Full-Stack • Mobile
+</p>
+
+---
+
+<h3 >
 Passionate about software development and fascinated by cutting-edge technology research, I bring forth excellent communication, collaboration, and problem-solving skills. Thriving on the excitement of embracing new challenges, I am dedicated to contributing to meaningful change. With a focus on creating dynamic and user-friendly applications, I specialize in React.js/Node.js and have honed my skills in mobile development, working with React Native for cross-platform solutions and SwiftUI for iOS applications. My commitment to continuous improvement positions me as an adept developer ready to drive innovation and deliver impactful solutions.
 </h3>
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<p> Languages/Technologies: </p>
+---
 
-<a href="https://www.javascript.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148861646-28a8a2fc-9194-47a9-a5a3-b4cae94f469c.png" width="50" height="50"/ >
-</a>
+<h2 >🚀 Tech Stack</h2>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148861746-410dc45c-77ae-43d7-a0a8-801bbda611f2.png" width="50" height="50"/ >
-</a>
-  
-<a href="https://nextjs.org/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148861232-1148102f-06a1-4b4f-ba95-3be50d42035a.png" width="50" height="50"/ >
-</a>
-  
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148861476-139a3ec9-0a9d-42b5-bf87-dde816f88263.png" width="50" height="50"/ >
-</a>
-
-  
-<a href="https://getbootstrap.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148861553-32bfbc1e-ed41-407d-92eb-4e7a648f340b.jpeg" width="50" height="50"/ >
-</a>
-
-
-<a href="https://nodejs.org/en/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148862048-58522e53-2187-483a-a7b5-1d83db704a91.png" width="50" height="50"/ >
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148861935-c340c22c-e09c-405b-8131-bd7303b8ccd5.jpeg" width="50" height="50"/ >
-</a>
-  
-<a href="https://expressjs.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148893038-f2a86358-3c0b-4805-bd51-a3c1861a2004.png" width="50" height="50"/ >
-</a>
-
-<a href="https://neo4j.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148892341-dff82070-0340-4d3c-96cb-d224ae8ea676.png" width="50" height="50"/ >
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148862436-04782ba9-df53-47fd-a93e-af16d6213a1e.png" width="50" height="50"/ >
-</a>
-
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148862730-bd89b571-d326-4ffe-9b05-5d18785f1edf.png" width="50" height="50"/ >
-</a>
-  
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148863107-49650959-3632-41e5-9fb0-f37e4216c861.png" width="50" height="50"/ >
-</a>
-  
-
-<a href="https://developer.apple.com/swift/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148862338-69046b7e-9fb5-4bc0-9c7b-e607c0bda5a2.png" width="50" height="50"/ >
-</a>
-
-<a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148892418-4d695f7a-9a40-44ff-bd54-db417374e5e5.png" width="50" height="50"/ >
-</a>
-
-  
-<a href="https://www.python.org/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148892457-37da1fd5-8a74-45a7-a774-1e3c1f9493de.png" width="50" height="50"/ >
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148892651-7c19076a-4b9e-43f8-9411-ef270d5271e0.png" width="50" height="50"/ >
-</a>
-
-  
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148892758-4d2fe885-c1b1-4a48-8faf-3700860f1156.png" width="50" height="50"/ >
-</a>
-
-<a href="https://firebase.google.com/docs/auth" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148892877-64965773-28dc-446f-9b47-d409453b7257.png" width="50" height="50"/ >
-</a>
-  
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148862183-16c92f43-73ac-465d-9e51-ea5abe26922c.png" width="50" height="50"/ >
-</a>
-
-<a href="https://unity.com/" target="_blank">
-<img src="https://user-images.githubusercontent.com/70719037/148893139-ddfddcce-f8b8-4d96-955c-316f63e93c85.jpeg" width="50" height="50"/ >
-</a>
+<p>
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,swift" />
 </p>
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=batukir&show_icons=true&theme=gotham"/> -->
 
-<!--
-**batukir/batukir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <strong>Frontend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
+</p>
 
-Here are some ideas to get you started:
+<p>
+  <strong>Backend</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <strong>Databases</strong><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,neo4j" />
+</p>
+
+<p>
+  <strong>Cloud & DevOps</strong><br/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,firebase" />
+</p>
+
+<p>
+  <strong>Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,unity" />
+</p>
+
+---
+
+<h2 >What I Focus On</h2>
+
+
+- Building scalable full-stack applications  
+- Designing clean APIs and data models  
+- Performance optimization & system reliability  
+- Mobile-first development (React Native / SwiftUI)  
+- Writing maintainable, production-quality code  
+
+---
+<h2 >🤝 Connect</h2>
+
+<p >
+  <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">Portfolio</a> • 
+  <a href="https://www.linkedin.com/batuhankir" target="_blank">LinkedIn</a> • 
+  <a href="mailto:batukir.pro@email.com">Email</a>
+</p>
