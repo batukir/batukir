@@ -56,6 +56,6 @@ Passionate about software development and fascinated by cutting-edge technology 
 
 <p >
   <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">Portfolio</a> • 
-  <a href="[https://www.linkedin.com/batuhankir](https://www.linkedin.com/in/batuhankir/)" target="_blank">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/batuhankir/" target="_blank">LinkedIn</a> • 
   <a href="mailto:batukir.pro@email.com">Email</a>
 </p>
