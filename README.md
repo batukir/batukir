@@ -52,17 +52,6 @@ Passionate about software development and fascinated by cutting-edge technology 
 </p>
 
 ---
-
-<h2 >What I Focus On</h2>
-
-
-- Building scalable full-stack applications  
-- Designing clean APIs and data models  
-- Performance optimization & system reliability  
-- Mobile-first development (React Native / SwiftUI)  
-- Writing maintainable, production-quality code  
-
----
 <h2 >🤝 Connect</h2>
 
 <p >
