@@ -1,61 +1,68 @@
+<h1 align="center">Hey, I'm Batu 👋</h1>
 
-<h1 >Hey, I'm Batu 👋</h1>
-
-<p >
+<p align="center">
   <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">
     🌐 View Portfolio
   </a>
 </p>
 
-<p >
-  Software Engineer • Full-Stack • Mobile
+<p align="center">
+  Full-Stack Engineer • React &amp; Python/Django • AI/LLM Systems
 </p>
 
 ---
 
-<h3 >
-Passionate about software development and fascinated by cutting-edge technology research, I bring forth excellent communication, collaboration, and problem-solving skills. Thriving on the excitement of embracing new challenges, I am dedicated to contributing to meaningful change. With a focus on creating dynamic and user-friendly applications, I specialize in React.js/Node.js and have honed my skills in mobile development, working with React Native for cross-platform solutions and SwiftUI for iOS applications. My commitment to continuous improvement positions me as an adept developer ready to drive innovation and deliver impactful solutions.
-</h3>
+### About
+
+I'm a full-stack engineer based in New Jersey, building across React on the front end and Python, Django, and FastAPI behind it. I spent five years at an early-stage privacy-tech startup, where a small team meant owning features end to end: the dashboards, the REST APIs, auth, and the data layer.
+
+M.S. and B.S. in Computer Science from Rowan University. Currently looking for a role on an established engineering team.
 
 ---
 
-<h2 >🚀 Tech Stack</h2>
+## 🚀 Tech Stack
 
 <p>
   <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,swift" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,swift" />
 </p>
 
 <p>
   <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" />
 </p>
 
 <p>
   <strong>Backend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+<p>
+  <strong>AI &amp; LLM</strong><br/>
+  LangChain • LangGraph • Azure OpenAI • RAG • Embeddings • Qdrant • Agent workflows • LLM evaluation
 </p>
 
 <p>
   <strong>Databases</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,neo4j" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
 <p>
-  <strong>Cloud & DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,firebase" />
+  <strong>Cloud &amp; DevOps</strong><br/>
+  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git" />
 </p>
 
 <p>
-  <strong>Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,unity" />
+  <strong>Testing &amp; Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=jest,postman" /> &nbsp;Playwright • Agile/Scrum • Jira
 </p>
 
 ---
-<h2 >🤝 Connect</h2>
 
-<p >
-  <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/batuhankir/" target="_blank">LinkedIn</a> • 
-  <a href="mailto:batukir.pro@email.com">Email</a>
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/batuhankir/" target="_blank">LinkedIn</a> •
+  <a href="mailto:batukir.pro@gmail.com">Email</a>
 </p>
