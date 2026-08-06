@@ -14,10 +14,7 @@
 
 ### About
 
-I'm a full-stack engineer based in New Jersey, building across React on the front end and Python, Django, and FastAPI behind it. I spent five years at an early-stage privacy-tech startup, where a small team meant owning features end to end: the dashboards, the REST APIs, auth, and the data layer.
-
-M.S. and B.S. in Computer Science from Rowan University. Currently looking for a role on an established engineering team.
-
+I'm a full-stack engineer based in New Jersey, building across React on the front end and Python, Django, and FastAPI behind it.
 ---
 
 ## 🚀 Tech Stack
