@@ -1,65 +1,26 @@
-<h1 align="center">Hey, I'm Batu 👋</h1>
+# Hi, I'm Batu 👋
 
-<p align="center">
-  <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">
-    🌐 View Portfolio
-  </a>
-</p>
+**Full-stack engineer · React & Python/Django · AI/LLM systems**
 
-<p align="center">
-  Full-Stack Engineer • React &amp; Python/Django • AI/LLM Systems
-</p>
+I'm Batuhan Kir, based in New Jersey. I build web applications with React, Django, and FastAPI, and explore AI systems through agent workflows, retrieval, and evaluation.
 
----
+[Portfolio](https://batu-portfolio-nu.vercel.app/) · [Personal wiki](https://github.com/batukir/batukir/blob/main/personal-wiki/Home.md) · [LinkedIn](https://www.linkedin.com/in/batuhankir/) · [Email](mailto:batukir.pro@gmail.com)
 
-### About
+## Selected projects
 
-I'm a full-stack engineer based in New Jersey, building across React on the front end and Python, Django, and FastAPI behind it.
----
+- **[NewsLens](https://github.com/batukir/llm-agent-news-contradiction-detector)** — A LangGraph application for comparing news coverage through claim extraction, source quotations, and evaluation.
+- **[PulseCheck](https://github.com/batukir/pulsecheck)** — Scheduled HTTP checks and background processing with Django, django-q2, and Redis.
+- **[Football Clubs](https://github.com/batukir/football-clubs-react-django)** — A React application backed by a Django REST API for managing clubs and related data.
 
-## 🚀 Tech Stack
+## Core stack
 
-<p>
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,swift" />
-</p>
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Backend:** Python, Django, FastAPI, Node.js, Express
+- **AI:** LangChain, LangGraph, Azure OpenAI, RAG, embeddings, LLM evaluation
+- **Data & infrastructure:** PostgreSQL, MongoDB, Redis, Docker, Azure, GitHub Actions
 
-<p>
-  <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" />
-</p>
+## Explore my work
 
-<p>
-  <strong>Backend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
-</p>
+The [personal wiki](https://github.com/batukir/batukir/blob/main/personal-wiki/Home.md) brings together my projects, technical skills, and engineering approach, with direct links to the code.
 
-<p>
-  <strong>AI &amp; LLM</strong><br/>
-  LangChain • LangGraph • Azure OpenAI • RAG • Embeddings • Qdrant • Agent workflows • LLM evaluation
-</p>
-
-<p>
-  <strong>Databases</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-<p>
-  <strong>Cloud &amp; DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=azure,docker,githubactions,git" />
-</p>
-
-<p>
-  <strong>Testing &amp; Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=jest,postman" /> &nbsp;Playwright • Agile/Scrum • Jira
-</p>
-
----
-
-## 🤝 Connect
-
-<p align="center">
-  <a href="https://batu-portfolio-nu.vercel.app/" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/batuhankir/" target="_blank">LinkedIn</a> •
-  <a href="mailto:batukir.pro@gmail.com">Email</a>
-</p>
+[Projects](https://github.com/batukir/batukir/blob/main/personal-wiki/Projects.md) · [Skills](https://github.com/batukir/batukir/blob/main/personal-wiki/Skills.md) · [Development journey](https://github.com/batukir/batukir/blob/main/personal-wiki/Journey.md) · [Repository index](https://github.com/batukir/batukir/blob/main/personal-wiki/Repositories.md)
